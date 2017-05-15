@@ -1,0 +1,65 @@
+*{
+	font-family: FreeSans, sans-serif;
+	color:#C71585 ;
+	font-size: 18px;
+	line-height: normal;
+}
+
+body{
+	background-color:#FFE4E1;
+	margin: 0;
+}
+header h1{
+	font-family: URW Chancery L;
+	font-size: 55px;
+	background-color:#C71585;
+	color: whitesmoke;
+	text-align: center;
+	padding: 20px;
+	margin: 0;
+}
+header h2{
+	font-family: URW Chancery L;
+	font-size: 30px;
+	color: #800080;
+	text-align: none;
+	padding: 20px;
+	margin: 0;
+	line-height: normal
+}
+section p{
+	font-family:FreeSans;
+	font-size: 15px;
+	color: #C71585;
+	text-align: justify;
+	padding: 0;
+	margin: 20px;
+	line-height: normal	
+}	
+h3{
+	font-family: URW Chancery L;
+	font-size: 30px;
+	color: #800080;
+	text-align: none;
+	padding: 30px;
+	margin: 20px;
+}
+#zen-supporting p{
+	font-family:FreeSans;
+	font-size: 15px;
+	color: #C71585;
+	text-align: justify;
+	padding: 0;
+	margin: 20px;
+	line-height: 25px;
+}
+a{   
+ 	text-decoration:none;  
+  	font-size: oblique;
+  	color: #800080;
+}   
+
+
+
+
+
